@@ -13,4 +13,7 @@ import (
 
 func main() {
 	fmt.Println("Results:")
+	a := 3
+	fmt.Println(a)
+	a = 2
 }
