@@ -1,6 +1,6 @@
 reproducing the golangci-lint issue:
 
-    git checkout HEAD~1
+    git checkout 0a5d286ab468ad39c45523607c472f5336495878
     rm -rf foo.c
     make lint
     make foo
